@@ -3,8 +3,6 @@ title: CSDE 502 Responsible Conduct of Research, Spring 2023
 layout: default
 ---
 
-
-
 # Table of Contents
 
 * [Week 1: Ethics and Norms](#week-1)
