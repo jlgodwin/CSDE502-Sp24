@@ -74,7 +74,7 @@ No Class - PAA
 
 # Week 6
 
-**Algorithms and Prediction: ** May 5, 2023
+**Algorithms and Prediction:** May 5, 2023
 
 ## Readings
   * [Race and Biosocial Science](https://jlgodwin.github.io/CSDE502-Sp22/Readings/Week%206/RobertsRollins_2020_ARS.pdf)
