@@ -24,7 +24,7 @@ layout: default
 
 ## Readings
   *  **[The NIH's Subject Matter Guidelines for Responsible Conduct of Research Training](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-055.html)**
-  *  **Ethics and Norms:** [Thinking Ethically](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%201/ThinkingEthically.pdf), [Research Norms](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%201/MertonianNorms.pdf), [Fostering Integrity in Research, Ch.2: Core Values and Guiding Norms](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%201/Fostering%20Integrity_Ch2.pdf)
+  *  **Ethics and Norms:** [Thinking Ethically](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%201/ThinkingEthically.pdf), [Research Norms](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%201/MertnonianNorms.pdf), [Fostering Integrity in Research, Ch.2: Core Values and Guiding Norms](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%201/Fostering%20Integrity_Ch2.pdf)
   *  **Case Studies:** [More Than Tuskegee](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%201/Scharff_MoreThanTuskegee.pdf) ([Background](https://www.mcgill.ca/oss/article/history/40-years-human-experimentation-america-tuskegee-study))
   
 # Week 2
