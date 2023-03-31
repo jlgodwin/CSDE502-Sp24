@@ -20,7 +20,7 @@ layout: default
 
 # Week 1
 **Ethics and Norms:** March 31, 2023
-  *  [Slides](https://jlgodwin.github.io/CSDE502-Sp23/Slides/Week%201/CSDE%20502%20Week%201_20220401.pdf)
+  *  [Slides](https://jlgodwin.github.io/CSDE502-Sp23/Slides/Week%201/CSDE%20502%20Week%201_20230331.pdf)
 
 ## Readings
   *  **[The NIH's Subject Matter Guidelines for Responsible Conduct of Research Training](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-055.html)**
