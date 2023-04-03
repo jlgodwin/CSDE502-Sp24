@@ -34,7 +34,7 @@ layout: default
 ## Readings
 
   *  **Research with Human Subjects:** [Responsible Conduct of Research, Ch. 11](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%202/Responsible%20Conduct%20of%20Research_Ch11.pdf)
-  *  **Universities and Human Subjects Research:** [Colonial Unknowing](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%202/ColonialUnknowing_IRBs_2019.pdf), [Indigenous Data Sovereignty and IRBs](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%202/IndigenousDataSovereignty_IRBs.pdf), [Land Grab University](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%202/LandGrabUniversities_2019.pdf)
+  *  **Universities and Human Subjects Research:** [Colonial Unknowing](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%202/ColonialUnknowing_IRBs_2019.pdf), [Indigenous Data Sovereignty and IRBs](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%202/IndigenousDataSovereignty_IRB.pdf), [Land Grab University](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%202/LandGrabUniversities_2019.pdf)
   *  **Case Studies:** [Montana Flyer Study](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%202/MontanaFlyerStudy.pdf), [Bangladesh Mask Study](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%202/BangladeshMaskStudy.pdf)
 
 
