@@ -29,7 +29,7 @@ layout: default
   
 # Week 2
 **Research with Human Subjects:** April 7, 2023
-
+  *  [Slides](https://jlgodwin.github.io/CSDE502-Sp23/Slides/CSDE%20502%20Week%202_20230407.pdf)
 
 ## Readings
 
@@ -38,12 +38,9 @@ layout: default
   *  **Case Studies:** [Montana Flyer Study](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%202/MontanaFlyerStudy.pdf), [Bangladesh Mask Study](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%202/BangladeshMaskStudy.pdf)
 
 
-
-  
 # Week 3
 
 **No Class - PAA:** April 14, 2023
-
 
 ## Assignments
  **CITI Human Subjects Training**
