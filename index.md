@@ -8,13 +8,12 @@ layout: default
 * [Week 1: Ethics and Norms](#week-1)
 * [Week 2: Research with Human Subjects](#week-2)
 * [Week 3: Research with Human Subjects, cont'd](#week-3)
-* [Week 4: Data Management Principles](#week-4)
-* [Week 5: Research in Low- and Middle- Income Countries](#week-5)
-* [Week 6: Algorithms and Prediction](#week-6)
-* [Week 7: Reproducibility, Replicability, Statistical Inference](#week-7)
-* [Week 8: Publication](#week-8)
-* [Week 9: The Workplace](#week-9)
-* [Week 10: TBD]
+* [Week 5: Data Management Principles](#week-5)
+* [Week 6: Research in Low- and Middle- Income Countries](#week-6)
+* [Week 7: Algorithms and Prediction](#week-7)
+* [Week 8: Reproducibility, Replicability, Statistical Inference](#week-8)
+* [Week 9: Publication](#week-9)
+* [Week 10: The Workplace](#week-10)
 * [The Boneyard](#boneyard)
 
 
@@ -49,27 +48,28 @@ layout: default
 
 
 
-# Week 4
+# Week 5
 
-**Data Management Principles:** April 21, 2023
+**Data Management Principles:** April 28, 2023
+  * [Slides](https://jlgodwin.github.io/CSDE502-Sp23/Slides/CSDE%20502%20Week%205_20230428.pdf)
 
 ## Readings
   * [FAIR](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%204/FairData.pdf)
   * [Indigenous Data Principles](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%204/IndigenousDataUS_Carroll.pdf), [CARE](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%204/CAREPrinciples_Carroll.pdf)
   * **Case Studies:** [Refugee Data](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%204/StopStealingOurStories.pdf)
 
-# Week 5
+# Week 6
 
-**Research in Low- and Middle- Income Countries:** April 28, 2023
+**Research in Low- and Middle- Income Countries:** May 5, 2023
 
 ## Readings
   * [Global North-South Partnerships in Research](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%205/GlobalNorthSouthResearch.pdf)
   * [Fieldwork in LMICs](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%205/LMIC_FieldworkEthics.pdf)
   * **Case studies:** [Ethics of HDSS Sites](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%205/HDSS_Ethics.pdf)
 
-# Week 6
+# Week 7
 
-**Algorithms and Prediction:** May 5, 2023
+**Algorithms and Prediction:** May 12, 2023
 
 ## Readings
   * [Race and Biosocial Science](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%206/RobertsRollins_2020_ARS.pdf)
@@ -77,9 +77,9 @@ layout: default
   * **Case studies:** [Predictive Policing](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%206/ProPublica_PredictivePolicing_2016.pdf)
 
 
-# Week 7
+# Week 8
 
-**Reproducibility, Replicability, Statistical Inference:** May 12, 2023
+**Reproducibility, Replicability, Statistical Inference:** May 19, 2023
 
 ## Readings
   *  [Responsible Conduct of Research, Ch.3](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%207/Responsible%20Conduct%20of%20Research_Ch3.pdf)
@@ -88,9 +88,9 @@ layout: default
   * **Statistical Inference:** [ASA on P-values](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%207/Wasserstein_ASAStatementonPValues.pdf), [Statistical Tests](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%207/Greenland_StatisticalTests.pdf)
  
 
-# Week 8
+# Week 9
 
-**Publication:** May 19, 2023
+**Publication:** May 26, 2023
 
 ## Readings
   * **Reproducibility and Replicability:** [Responsible Conduct of Research, Ch.3](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%208/Responsible%20Conduct%20of%20Research_Ch3.pdf), [Manifesto for Reproducible Science](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%208/Munafo_ManifestoforReproducibleScience.pdf)
@@ -98,9 +98,9 @@ layout: default
   * **Post-publication Criticism:** [The Obesity Wars](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%208/TheObesityWars.pdf)
 
 
-# Week 9
+# Week 10
 
-**The Workplace:** May 26, 2023
+**The Workplace:** June 2, 2023
 
 ## Readings
   * [Why isn't science better?](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%209/Smaldino_WhyIsntScienceBetter.pdf)
