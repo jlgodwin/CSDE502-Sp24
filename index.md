@@ -56,7 +56,7 @@ layout: default
 ## Readings
   * [FAIR](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%204/FairData.pdf)
   * [Indigenous Data Principles](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%204/IndigenousDataUS_Carroll.pdf), [CARE](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%204/CAREPrinciples_Carroll.pdf)
-  * **Case Studies:** [Refugee Data](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%204/StopStealingOurStories.pdf)
+  * **Case Studies:** [Population Data Systems](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%204/SeltzerAnderson2001.pdf) [Refugee Data](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%204/StopStealingOurStories.pdf)
 
 # Week 6
 
