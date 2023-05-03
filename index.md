@@ -65,7 +65,7 @@ layout: default
 ## Readings
   * [Global North-South Partnerships in Research](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%205/GlobalNorthSouthResearch.pdf)
   * [Fieldwork in LMICs](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%205/LMIC_FieldworkEthics.pdf)
-  * **Case studies:** [Ethics of HDSS Sites](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%205/HDSS_Ethics.pdf)
+  * **Case studies:** [Ethics of HDSS Sites](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%205/HDSS_Ethicspdf.pdf)
 
 # Week 7
 
