@@ -71,6 +71,7 @@ layout: default
 # Week 7
 
 **Algorithms and Prediction:** May 12, 2023
+  * [Slides](https://jlgodwin.github.io/CSDE502-Sp23/Slides/CSDE%20502%20Week%207_20230512.pdf)
 
 ## Readings
   * [Race and Biosocial Science](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%206/RobertsRollins_2020_ARS.pdf)
