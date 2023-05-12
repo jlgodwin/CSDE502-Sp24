@@ -61,6 +61,7 @@ layout: default
 # Week 6
 
 **Research in Low- and Middle- Income Countries:** May 5, 2023
+  * [Slides](https://jlgodwin.github.io/CSDE502-Sp23/Slides/CSDE%20502%20Week%206_20230505.pdf)
 
 ## Readings
   * [Global North-South Partnerships in Research](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%205/GlobalNorthSouthResearch.pdf)
