@@ -82,6 +82,7 @@ layout: default
 # Week 8
 
 **Reproducibility, Replicability, Statistical Inference:** May 19, 2023
+  * [Slides](https://jlgodwin.github.io/CSDE502-Sp23/Slides/CSDE%20502%20Week%208_20230519.pdf)
 
 ## Readings
   *  [Responsible Conduct of Research, Ch.3](https://jlgodwin.github.io/CSDE502-Sp23/Readings/Week%207/Responsible%20Conduct%20of%20Research_Ch3.pdf)
