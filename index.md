@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Table of Contents
-[Syllabus](https://jlgodwin.github.io/CSDE502-Sp24/CSDE%20502_Syllabus_20240328.pdf)
+[Syllabus](https://jlgodwin.github.io/CSDE502-Sp24/CSDE%20502_Syllabus_20240328..pdf)
 
 * [Week 1: Ethics and Norms](#week-1)
 * [Week 2: Research with Human Subjects](#week-2)
