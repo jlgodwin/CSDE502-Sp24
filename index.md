@@ -4,6 +4,7 @@ layout: default
 ---
 
 # Table of Contents
+[Syllabus](https://jlgodwin.github.io/CSDE502-Sp24/CSDE%20502_Syllabus_20240328.pdf)
 
 * [Week 1: Ethics and Norms](#week-1)
 * [Week 2: Research with Human Subjects](#week-2)
@@ -18,9 +19,10 @@ layout: default
 * [The Boneyard](#boneyard)
 
 
+
 # Week 1
 **Ethics and Norms:** March 29, 2024
-  *  [Slides](https://jlgodwin.github.io/CSDE502-Sp24/Slides/CSDE%20502%20Week%201_20230331.pdf)
+  *  [Slides](https://jlgodwin.github.io/CSDE502-Sp24/Slides/CSDE%20502%20Week%201_20240329.pdf)
 
 ## Readings
   *  **[The NIH's Subject Matter Guidelines for Responsible Conduct of Research Training](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-055.html)**
