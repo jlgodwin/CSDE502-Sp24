@@ -31,7 +31,7 @@ layout: default
   
 # Week 2
 **Research with Human Subjects:** April 5, 2024
-  *  [Slides](https://jlgodwin.github.io/CSDE502-Sp24/Slides/CSDE%20502%20Week%202_20230407.pdf)
+  *  [Slides](https://jlgodwin.github.io/CSDE502-Sp24/Slides/CSDE%20502%20Week%202_20240405.pdf)
 
 ## Readings
 
