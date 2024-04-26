@@ -77,7 +77,7 @@ layout: default
 ## Readings
   * [Race and Biosocial Science](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%206/RobertsRollins_2020_ARS.pdf)
   * [Algorithmic Fairness](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%206/AlgorithmicFairness_2021_ARS.pdf)
-  * [Regenerating Demographic Stereotypes](https://jlgodwin.github.io/CSDE502-Sp24/Week%206/Bianchi_TexttoImage_Stereotypes_2023.pdf)
+  * [Regenerating Demographic Stereotypes](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%206/Bianchi_TexttoImage_Stereotypes_2023.pdf)
   * **Case studies:** [Predictive Policing](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%206/ProPublica_PredictivePolicing_2016.pdf) [Unmasking AI, Ch. 6](https://orbiscascade-washington.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_ebookcentral_EBC30724349&context=PC&vid=01ALLIANCE_UW:UW&lang=en&search_scope=UW_EVERYTHING&adaptor=Primo%20Central&tab=UW_default&query=any,contains,unmasking%20ai)
 
 
