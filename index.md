@@ -112,7 +112,7 @@ layout: default
   * [Labor Organization](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%209/OrganizingtheAcademy_2021.pdf)
   * [Picture a Scientist (film)](https://www.pbs.org/wgbh/nova/video/picture-a-scientist/) (Also on Netflix), [Sabatini Almost Hired at NYU](https://jlgodwin.github.io/CSDE502-Sp24/Readings/Week%209/Sabatini_NYU_2022.pdf)
 
-
+# Week 10
 **Solutions:** May 31, 2024
 
 ## Readings
