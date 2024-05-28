@@ -116,7 +116,7 @@ layout: default
 **Solutions:** May 31, 2024
 
 ## Readings
-  * [Toward Critical Demography 2.0](https://jlgodwin.github.com/CSDE502-Sp24/Readings/Week%2010/Ortega_CritDemog2_2023.pdf) [Regaining Trust in Science](https://jlgodwin.github.com/CSDE502-Sp24/Readings/Week%2010/Hastings_RegainingTrust_2023.pdf)
+  * [Toward Critical Demography 2.0](https://jlgodwin.github.com/CSDE502-Sp24/Readings/Week+10/Ortega_CritDemog2_2023.pdf) [Regaining Trust in Science](https://jlgodwin.github.com/CSDE502-Sp24/Readings/Week%2010/Hastings_RegainingTrust_2023.pdf)
   * **Case Studies** [Unmasking AI, Chs. 21 & 23](https://orbiscascade-washington.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_ebookcentral_EBC30724349&context=PC&vid=01ALLIANCE_UW:UW&lang=en&search_scope=UW_EVERYTHING&adaptor=Primo%20Central&tab=UW_default&query=any,contains,unmasking%20ai) [The Truth Project](https://ias.umn.edu/news-stories/truth-project-towards-recognition-and-university-tribal-healing) [The Truth Project (Podcast)](https://soundcloud.com/therednationpod/the-truth-project-towards)
 
 # Boneyard
